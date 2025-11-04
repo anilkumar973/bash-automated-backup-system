@@ -168,6 +168,14 @@ Add progress bar for large archives
 
 Encrypt backup files for extra security
 
+
+## 📸 Screenshot
+
+Here’s how the backup script output looks:
+
+![Backup Output Screenshot](./screenshots/backup_output.png)
+
+
 👨‍💻 Author
 Anil Kumar
 Bash Scripting Project — Automated Backup System
