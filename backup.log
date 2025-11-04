@@ -1,0 +1,51 @@
+[2025-11-03 15:04:29] INFO: Starting backup of /c/Users/Dell/Documents
+[2025-11-03 15:04:30] SUCCESS: Backup created: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1504.tar.gz
+[2025-11-03 15:04:30] INFO: Checksum saved: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1504.tar.gz.md5
+[2025-11-03 15:04:30] SUCCESS: Checksum verified successfully.
+[2025-11-03 15:04:30] INFO: Applying backup rotation policy...
+[2025-11-03 15:04:41] INFO: Dry run mode enabled
+[2025-11-03 15:04:41] INFO: Would backup folder: /c/Users/Dell/Documents
+[2025-11-03 15:04:41] INFO: Would save backup to: /c/Users/Dell/Desktop/bash practice/backups
+[2025-11-03 15:04:41] INFO: Would skip patterns: .git,node_modules,.cache
+[2025-11-03 15:07:22] INFO: Starting backup of /c/Users/Dell/Desktop/test_backup/data
+[2025-11-03 15:07:23] SUCCESS: Backup created: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1507.tar.gz
+[2025-11-03 15:07:23] INFO: Checksum saved: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1507.tar.gz.md5
+[2025-11-03 15:07:23] SUCCESS: Checksum verified successfully.
+[2025-11-03 15:07:23] INFO: Applying backup rotation policy...
+[2025-11-03 15:07:53] INFO: Starting backup of /c/Users/Dell/Desktop/test_backup/data
+[2025-11-03 15:07:53] SUCCESS: Backup created: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1507.tar.gz
+[2025-11-03 15:07:53] INFO: Checksum saved: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-03-1507.tar.gz.md5
+[2025-11-03 15:07:53] SUCCESS: Checksum verified successfully.
+[2025-11-03 15:07:53] INFO: Applying backup rotation policy...
+[2025-11-03 15:08:13] INFO: Dry run mode enabled
+[2025-11-03 15:08:13] INFO: Would backup folder: /c/Users/Dell/Desktop/test_backup/data
+[2025-11-03 15:08:13] INFO: Would save backup to: /c/Users/Dell/Desktop/bash practice/backups
+[2025-11-03 15:08:13] INFO: Would skip patterns: .git,node_modules,.cache
+[2025-11-03 15:08:25] ERROR: Source folder not found: /c/Users/Dell/Desktop/wrong_path
+[2025-11-04 12:10:51] INFO: Dry run mode enabled
+[2025-11-04 12:10:51] INFO: Would backup folder: /c/Users/Dell/Desktop/test_backup/data
+[2025-11-04 12:10:51] INFO: Would save backup to: /c/Users/Dell/Desktop/bash practice/backups
+[2025-11-04 12:10:51] INFO: Would skip patterns: .git,node_modules,.cache
+[2025-11-04 12:11:02] INFO: Starting backup of /c/Users/Dell/Desktop/test_backup/data
+[2025-11-04 12:11:03] SUCCESS: Backup created: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-04-1211.tar.gz
+[2025-11-04 12:11:04] INFO: Checksum saved: /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-04-1211.tar.gz.md5
+[2025-11-04 12:11:04] SUCCESS: Checksum verified successfully.
+[2025-11-04 12:11:04] INFO: Applying backup rotation policy...
+[2025-11-04 17:03:05] ERROR: Source folder not found: /c/Users/Anil/Desktop/test_backup_folder
+[2025-11-04 17:03:30] ERROR: Source folder not found: /c/Users/Anil/Desktop/test_backup_folder
+[2025-11-04 17:07:10] INFO: Starting backup of /c/Users/anil 1/test_backup_folder
+tar (child): /c/Users/Dell/Desktop/bash practice/backups/backup-2025-11-04-1707.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+[2025-11-04 17:07:11] ERROR: Failed to create backup archive.
+[2025-11-04 17:08:57] INFO: Starting backup of /c/Users/anil 1/test_backup_folder
+[2025-11-04 17:08:57] SUCCESS: Backup created: /c/Users/anil 1/backups/backup-2025-11-04-1708.tar.gz
+[2025-11-04 17:08:57] INFO: Checksum saved: /c/Users/anil 1/backups/backup-2025-11-04-1708.tar.gz.md5
+[2025-11-04 17:08:57] SUCCESS: Checksum verified successfully.
+[2025-11-04 17:08:57] INFO: Applying backup rotation policy...
+[2025-11-04 17:09:40] INFO: Starting backup of /c/Users/anil 1/test_backup_folder
+[2025-11-04 17:09:40] SUCCESS: Backup created: /c/Users/anil 1/backups/backup-2025-11-04-1709.tar.gz
+[2025-11-04 17:09:40] INFO: Checksum saved: /c/Users/anil 1/backups/backup-2025-11-04-1709.tar.gz.md5
+[2025-11-04 17:09:40] SUCCESS: Checksum verified successfully.
+[2025-11-04 17:09:40] INFO: Applying backup rotation policy...
