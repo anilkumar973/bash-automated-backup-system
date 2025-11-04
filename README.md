@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧰 Automated Backup System
 
 ### 📘 Project Overview
@@ -171,3 +172,6 @@ Encrypt backup files for extra security
 Anil Kumar
 Bash Scripting Project — Automated Backup System
 Created for learning and automation practice.
+=======
+# bash-automated-backup-system
+>>>>>>> 9c87e92ecb5dddf8ef348eb8f5f7b8b52f144d41
